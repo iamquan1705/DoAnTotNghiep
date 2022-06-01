@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // can dich
+    <string name="label_btn_sign_in_with_google">Google로 로그인</string>
+    <string name="label_btn_login_in_with_Facebook">페이스 북과 연동하세요</string>
+    <string name="label1_btn_get_started">시작하다</string>
+    <string name="title_alert">전체 여행 일정을 들으시겠습니까?</string>
+    <string name="content_alert">우리는 당신이 더 나은 경험을 할 수 있기를 바라면서 당신이 겪을 모든 역사적 정보를 발표 할 것입니다.</string>
+    <string name="label_btn_Yes">예</string>
+    <string name="label_btn_No">아니</string>
+    <string name="hint_edtSearch">검색...</string>
+    <string name="hint_edt_comment">논평</string>
+    <string name="label_btn_Submit">제출하다</string>
+    <string name="title_dialog_rating">서비스 품질을 개선하기 위해 귀하의 경험을 알려주십시오.</string>
+    <string name="lblSeeMore">인터넷 없음</string>
+    <string name="logout">로그 아웃 하시겠습니까?</string>
+    <string name="text_dialog_warning_internet">인터넷 연결을 확인하세요!</string>
+    <string name="title_dialog_warning_internet">인터넷에 연결되어 있지 않은 것 같습니다.</string>
+    <string name="text_btn_close">닫기</string>
+    <string name="label_btn_Ok">확인</string>
+    <string name="label_btn_Cancel">취소</string>
+    <string name="tv_titleTravelRoute">여행 일정</string>
+    <string name="warning_rating">평가하고 귀하의 경험을 알려주십시오.</string>
+    <string name="thanks">귀하의 경험을 알려 주셔서 감사합니다.</string>
+    <string name="tv_title_locationInfor">위치 정보</string>
+    <string name="toast_backpress">종료하려면 뒤로를 다시 누르세요.</string>
+    <string name="title_tv_copyright">IntroTeam의 저작권 ©</string>
+    <string name="title_tv_hotline">핫라인</string>
+</resources>

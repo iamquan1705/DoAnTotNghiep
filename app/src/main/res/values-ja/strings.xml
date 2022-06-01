@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // can dich
+    <string name="label_btn_sign_in_with_google">Googleでサインイン</string>
+    <string name="label_btn_login_in_with_Facebook">Facebookとの接続</string>
+    <string name="label1_btn_get_started">ベギン</string>
+    <string name="title_alert">旅行スケジュール全体を聞きたいですか？</string>
+    <string name="content_alert">より良い体験ができることを願って、あなたが経験するすべての歴史的情報を発表します。</string>
+    <string name="label_btn_Yes">はい</string>
+    <string name="label_btn_No">番号</string>
+    <string name="hint_edtSearch">探す...</string>
+    <string name="hint_edt_comment">コメント</string>
+    <string name="label_btn_Submit">送信</string>
+    <string name="title_dialog_rating">私たちのサービスの質を向上させるために、あなたの経験を教えてください。</string>
+    <string name="lblSeeMore">続きを見る</string>
+    <string name="logout">ログアウトしますか？</string>
+    <string name="text_dialog_warning_internet">インターネット接続を確認してください！</string>
+    <string name="title_dialog_warning_internet">インターネットに接続していないようです</string>
+    <string name="text_btn_close">閉じる</string>
+    <string name="label_btn_Ok">同意する</string>
+    <string name="label_btn_Cancel">キャンセル</string>
+    <string name="tv_titleTravelRoute">旅行のスケジュール</string>
+    <string name="warning_rating">評価して、あなたの経験を教えてください</string>
+    <string name="thanks">あなたの経験を教えてくれてありがとう</string>
+    <string name="tv_title_locationInfor">位置情報</string>
+    <string name="toast_backpress">もう一度押すと終了します</string>
+    <string name="title_tv_copyright">IntroTeamの著作権 ©</string>
+    <string name="title_tv_hotline">ホットライン</string>
+</resources>

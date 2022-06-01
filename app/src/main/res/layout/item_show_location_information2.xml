@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.shimmer.ShimmerFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/shimmerFrameLayout"
+    android:layout_marginTop="@dimen/margin_20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:background="@color/colorShimmer"
+                android:id="@+id/tv_Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_medium"
+                android:textColor="@color/colorBlack"
+                android:textSize="@dimen/textSize_title_tour_introduce"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.5" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <ImageView
+            android:transitionName="@string/transitionName2"
+            android:background="@color/colorShimmer"
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/heightAppBarLayout"
+            android:layout_marginTop="@dimen/margin_10dp"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:lineSpacingExtra="@dimen/margin_10dp"
+            android:background="@color/colorShimmer"
+            android:id="@+id/tvContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_10dp"
+            android:ellipsize="end"
+            android:fontFamily="@font/lora"
+            android:maxLines="6"
+            android:textColor="@color/colorBlack"
+            android:textSize="@dimen/textSize_content_tour_introduce" />
+        <TextView
+            android:textStyle="bold"
+            android:layout_marginTop="@dimen/padding_05"
+            android:background="@color/colorShimmer"
+            android:id="@+id/tvSeeMore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/duru_sans_regular"
+            android:textColor="@drawable/click_text_seemore"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+</com.facebook.shimmer.ShimmerFrameLayout>

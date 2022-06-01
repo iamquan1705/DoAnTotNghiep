@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // can dich
+    <string name="label_btn_sign_in_with_google">Connectez-vous avec Google</string>
+    <string name="label_btn_login_in_with_Facebook">Connecter avec Facebook</string>
+    <string name="label1_btn_get_started">Commencer</string>
+    <string name="title_alert">Souhaitez-vous connaître l\'horaire complet du voyage?</string>
+    <string name="content_alert">Nous annoncerons toutes les informations historiques que vous passerez en revue, en espérant que vous aurez une meilleure expérience.</string>
+    <string name="label_btn_Yes">Oui</string>
+    <string name="label_btn_No">Non</string>
+    <string name="hint_edtSearch">Chercher...</string>
+    <string name="hint_edt_comment">Commentaire</string>
+    <string name="label_btn_Submit">Soumettre</string>
+    <string name="title_dialog_rating">Afin d\'améliorer la qualité de notre service, merci de nous faire part de votre expérience.</string>
+    <string name="lblSeeMore">Voir plus</string>
+    <string name="logout">Voulez-vous vous déconnecter?</string>
+    <string name="text_dialog_warning_internet">S\'il vous plait, vérifiez votre connexion internet!</string>
+    <string name="title_dialog_warning_internet">Il semble que vous ñ\'ayez pas de connexion Internet</string>
+    <string name="text_btn_close">Proche</string>
+    <string name="label_btn_Ok">D\'accord</string>
+    <string name="label_btn_Cancel">Annuler</string>
+    <string name="tv_titleTravelRoute">L\'horaire du voyage</string>
+    <string name="warning_rating">Veuillez évaluer et nous faire part de votre expérience</string>
+    <string name="thanks">Merci de nous avoir fait part de votre expérience</string>
+    <string name="tv_title_locationInfor">Information de Lieu</string>
+    <string name="toast_backpress">Appuyez à nouveau pour quitter</string>
+    <string name="title_tv_copyright">Copyright d\'IntroTeam ©</string>
+    <string name="title_tv_hotline">Hotline</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // can dich
+    <string name="label_btn_sign_in_with_google">使用Google登录</string>
+    <string name="label_btn_login_in_with_Facebook">与Facebook连接</string>
+    <string name="label1_btn_get_started">开始吧</string>
+    <string name="title_alert">您想听听整个行程吗？</string>
+    <string name="content_alert">我们将公布您将要经历的所有历史信息，希望您会有更好的体验。</string>
+    <string name="label_btn_Yes">是</string>
+    <string name="label_btn_No">没有</string>
+    <string name="hint_edtSearch">搜索...</string>
+    <string name="hint_edt_comment">评论</string>
+    <string name="label_btn_Submit">提交</string>
+    <string name="title_dialog_rating">为了提高我们的服务质量，请告诉我们您的经验。</string>
+    <string name="lblSeeMore">查看更多</string>
+    <string name="logout">您要登出吗？</string>
+    <string name="text_dialog_warning_internet">请检查您的互联网连接！</string>
+    <string name="title_dialog_warning_internet">看起来您没有互联网连接</string>
+    <string name="text_btn_close">关</string>
+    <string name="label_btn_Ok">好</string>
+    <string name="label_btn_Cancel">取消</string>
+    <string name="tv_titleTravelRoute">行程时间表</string>
+    <string name="warning_rating">请评分并告诉我们您的经验</string>
+    <string name="thanks">感谢您让我们知道您的经历</string>
+    <string name="tv_title_locationInfor">地点信息</string>
+    <string name="toast_backpress">再按一次退出</string>
+    <string name="title_tv_copyright">IntroTeam的版权 ©</string>
+    <string name="title_tv_hotline">热线</string>
+</resources>
